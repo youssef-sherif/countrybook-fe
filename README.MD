@@ -1,10 +1,10 @@
 This project was originally bundled using Create React App.
 
-- Supports npm 6+ / nodejs 9+ / webpack 4+
+- Supports npm 6+ / nodejs 8+ / webpack 4+
 
 - Install dependencies
 ```
-$ npm install
+$ yarn install
 ```
 
 - For development build
